@@ -1,0 +1,36 @@
+body {
+    background-color: aliceblue;
+}
+
+.profpic {
+    border-radius: 10%;
+}
+
+.aboutbox {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.row {
+    margin: 20px;
+}
+
+.footer {
+    color: gray;
+    margin-top: 50px;
+    font-size: small;
+}
+
+.contact-box {
+    margin: 5%;
+line-height:normal;
+}
+
+.form {
+    margin-top: 30px;
+}
+
+.icons {
+margin-top: 10px;
+}
